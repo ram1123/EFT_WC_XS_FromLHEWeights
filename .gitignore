@@ -1,3 +1,6 @@
+*.pcm
+test
+test.root
 # Prerequisites
 *.d
 
